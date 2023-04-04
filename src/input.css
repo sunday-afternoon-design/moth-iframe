@@ -4,3 +4,14 @@
 h1 {
     display: none;
 }
+
+#iframe {
+    position: absolute;
+    top: 50px;
+    left: 90px;
+    width: 1400px;
+    height: 840px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-width: 0
+}
