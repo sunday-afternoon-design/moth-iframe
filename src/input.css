@@ -1,6 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 #iframe {
     position: absolute;
     top: 50%;
